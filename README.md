@@ -1,1 +1,1 @@
-# Practice ML
+# Practice of machine learning classification algorithms.
